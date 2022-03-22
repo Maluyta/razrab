@@ -1,0 +1,12 @@
+{
+  "name": "Morpher Sidechain",
+  "shortName": "MRH",
+  "chain": "ETH",
+  "network": "mainnet",
+  "chainId": 21,
+  "networkId": 21,
+  "rpc": ["https://sidechain.morpher.com"],
+  "faucets": [],
+  "infoURL: "https://scan.morpher.com/",
+  "nativeCurrency": {"name":"Ether","symbol":"ETH","decimals":18}
+}
